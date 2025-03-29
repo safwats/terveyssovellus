@@ -121,3 +121,8 @@ Laajempi elementtien testaus: Testiä voisi laajentaa kattamaan enemmän element
 Negatiiviset testitapaukset: Virhetilanteiden testaaminen (esim. liian pitkien merkkijonojen syöttäminen) lisäisi testin kattavuutta
 Modulaarisempi lähestymistapa: Kehittyneiden avainsanojen luominen parantaisi koodin uudelleenkäytettävyyttä
 Parametrisointi: Testidatan laajempi eriyttäminen ja parametrisointi tekisi testeistä joustavampia
+
+
+![testi2 kaks_pass kolmas poistettu koska ei tarvitsee](https://github.com/user-attachments/assets/3e36a657-6753-4724-85ed-0e7664087dd2)
+
+
