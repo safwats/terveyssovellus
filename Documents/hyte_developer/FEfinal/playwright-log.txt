@@ -1,0 +1,62 @@
+{"level":30,"time":"2025-03-29T18:41:26.697Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Listening on 64171"}
+(node:17336) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2025-03-29T18:41:27.335Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2025-03-29T18:41:27.993Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Adding browser to stack: chromium, version: 134.0.6998.35"}
+{"level":30,"time":"2025-03-29T18:41:27.995Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method newBrowser"}
+{"level":30,"time":"2025-03-29T18:41:27.994Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2025-03-29T18:41:28.010Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-03-29T18:41:28.011Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-03-29T18:41:28.041Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Changed active context"}
+{"level":30,"time":"2025-03-29T18:41:28.301Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Video path: undefined"}
+{"level":30,"time":"2025-03-29T18:41:28.302Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Changed active page"}
+{"level":30,"time":"2025-03-29T18:41:30.915Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method newPage"}
+{"level":30,"time":"2025-03-29T18:41:30.974Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method typeText"}
+{"level":30,"time":"2025-03-29T18:41:30.976Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Strict mode is enabled, find Locator with [name=\"my-text\"] in page."}
+{"level":30,"time":"2025-03-29T18:41:31.560Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method typeText"}
+{"level":30,"time":"2025-03-29T18:41:31.572Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method typeText"}
+{"level":30,"time":"2025-03-29T18:41:31.573Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Strict mode is enabled, find Locator with [name=\"my-password\"] in page."}
+{"level":30,"time":"2025-03-29T18:41:33.183Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method typeText"}
+{"level":30,"time":"2025-03-29T18:41:33.204Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method typeText"}
+{"level":30,"time":"2025-03-29T18:41:33.204Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Strict mode is enabled, find Locator with [name=\"my-textarea\"] in page."}
+{"level":30,"time":"2025-03-29T18:41:37.842Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method typeText"}
+{"level":30,"time":"2025-03-29T18:41:37.850Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method selectOption"}
+{"level":30,"time":"2025-03-29T18:41:37.851Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Strict mode is enabled, find Locator with [name=\"my-select\"] in page."}
+{"level":30,"time":"2025-03-29T18:41:37.929Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Option entries: 4"}
+{"level":30,"time":"2025-03-29T18:41:37.929Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method selectOption"}
+{"level":30,"time":"2025-03-29T18:41:37.929Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Selected entries: 1"}
+{"level":30,"time":"2025-03-29T18:41:37.940Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-03-29T18:41:37.940Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Strict mode is enabled, find Locator with [name=\"my-datalist\"] in page."}
+{"level":30,"time":"2025-03-29T18:41:37.967Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method fillText"}
+{"level":30,"time":"2025-03-29T18:41:37.980Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-03-29T18:41:37.980Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Strict mode is enabled, find Locator with [name=\"my-range\"] in page."}
+{"level":30,"time":"2025-03-29T18:41:38.050Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method fillText"}
+{"level":30,"time":"2025-03-29T18:41:38.058Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2025-03-29T18:41:38.059Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Strict mode is enabled, find Locator with [id=\"my-check-1\"] in page."}
+{"level":30,"time":"2025-03-29T18:41:38.090Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2025-03-29T18:41:38.099Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2025-03-29T18:41:38.099Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Strict mode is enabled, find Locator with [id=\"my-check-2\"] in page."}
+{"level":30,"time":"2025-03-29T18:41:38.430Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2025-03-29T18:41:38.442Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method click"}
+{"level":30,"time":"2025-03-29T18:41:38.443Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Strict mode is enabled, find Locator with button in page."}
+{"level":30,"time":"2025-03-29T18:41:40.921Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method click"}
+{"level":30,"time":"2025-03-29T18:41:40.933Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method getText"}
+{"level":30,"time":"2025-03-29T18:41:40.933Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Strict mode is enabled, find Locator with id=message in page."}
+{"level":30,"time":"2025-03-29T18:41:41.034Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Retrieved text for element id=message containing Received!"}
+{"level":30,"time":"2025-03-29T18:41:41.034Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method getText"}
+{"level":30,"time":"2025-03-29T18:41:42.078Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-29T18:41:42.087Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-29T18:41:42.098Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-29T18:41:42.102Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-29T18:41:42.112Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-29T18:41:42.119Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-29T18:41:42.131Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-29T18:41:42.137Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-29T18:41:42.148Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Changed active context"}
+{"level":30,"time":"2025-03-29T18:41:42.149Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Changing current active page: page=f31b560e-b8a6-4f66-83bd-9ef783472230"}
+{"level":30,"time":"2025-03-29T18:41:42.149Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Changed active page"}
+{"level":30,"time":"2025-03-29T18:41:42.162Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-03-29T18:41:42.239Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Removed page=80b0293b-ec9e-4d93-a616-4c1c08faae8a from context=1f8f552f-1971-4a18-acda-523100a81062 page stack"}
+{"level":30,"time":"2025-03-29T18:41:42.351Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-03-29T18:41:42.524Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2025-03-29T18:41:42.829Z","pid":17336,"hostname":"DESKTOP-VDV08LR","msg":"End of node method closeAllBrowsers"}
