@@ -1,5 +1,7 @@
 Robot Framework -testaustehtävät
+
 Tehtävä 2: Kirjautumistesti ja tietojen piilottaminen
+
 Tämän tehtävän tavoitteena oli luoda kirjautumistesti käyttäen Robot Frameworkin Browser Library -kirjastoa, joka simuloi käyttäjän kirjautumista web-lomakkeella. Erityishuomiota kiinnitettiin arkaluontoisten tietojen, kuten salasanojen, turvalliseen käsittelyyn.
 Toteutus
 Toteutin tehtävän kahdella tiedostolla:
@@ -14,6 +16,8 @@ browser_demo.robot - Varsinainen testitiedosto:
 robotframeworkCopy*** Settings ***
 Library     Browser    auto_closing_level=KEEP
 Resource    Keywords.robot  
+
+
 
 *** Test Cases ***
 Test Web Form
@@ -102,7 +106,7 @@ Test Web Form Elements :: Testaa Web form-esimerkkisivun eri eleme... | PASS |
 Web Form Test                                                       | PASS |
 1 test, 1 passed, 0 failed
 ==============================================================================
-Opit ja johtopäätökset
+
 Tehtävän suorittaminen kehitti Robot Framework -taitojani merkittävästi:
 
 Browser Libraryn tehokas käyttö: Opin hallitsemaan erilaisia selaintoimintoja ja komentoja sujuvasti
